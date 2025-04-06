@@ -1,8 +1,8 @@
-# Student Code Checker 🧑‍💻
+# Student Code Checker 
 
 A Python-based tool for evaluating student code submissions, utilizing OpenAI's API to provide detailed feedback, error checking, and functionality analysis.
 
-## Features 🚀
+## Features 
 
 - **Code Validation**: Automatically checks if the student's code matches the task requirements.
 - **Error Checking**: Analyzes whether the code will run correctly or raise errors.
@@ -11,8 +11,6 @@ A Python-based tool for evaluating student code submissions, utilizing OpenAI's 
 - **CSV Reports**: Saves the results of each code evaluation in a CSV file.
 - **OpenAI Powered Feedback**: Detailed comments and suggestions generated using OpenAI's GPT model.
 - **Task Management**: Multiple tasks with individual descriptions and evaluation criteria.
-
-## Installation 🛠
 
 ### Prerequisites
 
