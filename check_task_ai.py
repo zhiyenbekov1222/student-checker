@@ -5,7 +5,6 @@ AI automation of student tasks
 import openai
 import os
 import json
-import pandas as pd
 import csv
 
 openai.api_key = "your api_key"
