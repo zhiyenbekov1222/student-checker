@@ -23,3 +23,5 @@ Make sure you have Python 3.7 or higher installed.
 ```bash
 git clone https://github.com/zhiyenbekov1222/student-checker.git
 cd student-checker
+change the task description and provide student tasks.
+run the file check_task_ai.py
