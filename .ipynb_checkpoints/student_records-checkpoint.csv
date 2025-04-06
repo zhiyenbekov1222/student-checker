@@ -1,0 +1,18 @@
+Student Name,Task Name,Workable,Relevance %,Assessment %,Unnecessary code %,Comments
+K_Aruzhan_9,lab_1,Yes,70,70,20,The code is functional and completes the tasks,but could be optimized by reducing unnecessary variables.
+test_mess_code,lab_1,Yes,70,80,0,Some comments are missing in the code. Improve commenting for better understanding.
+Bekzat,lab_1,Yes,100,90,"0 ""The code is relevant to the task",workable,"and optimized. Improvement can be made by adding more comments."""
+islam,lab_1,Yes,100,90,"0 ""The code is workable",relevant to the task,"and optimized. Some improvements can be made for better readability."""
+Nurali_8,lab_1,Yes,100,90,10,"""The code is well structured and implements all the required functionalities. Some optimization and unnecessary variables can be removed."""
+Aruzhan_Kopzhanova,lab_1,Yes,100,90,"0 ""The code is relevant to the task","optimized and logically correct. Improvement needed in commenting for better understanding."""
+Nurtalap_9,lab_1,Yes,100,90,0,"""The code is relevant to the task","optimized and logically correct. Improvement can be made in reducing unnecessary variables."""
+Issakhmet_8,lab_1,Yes,70,80,0%,The code is workable and relevant to the task,but can be improved with better organization and comments.
+M_Muratuly_8,lab_1,Yes,70,90,20,The code is relevant to the task but lacks the implementation of randomly appearing coins and tracking collected coins. Some improvements needed.
+Bekarys_8,lab_1,Yes,100,90,0%,The code is relevant to the task,optimized and logically correct. Improvement: Add more comments for better understanding.
+Nurassyl_8,lab_1,Yes,100,90,"0 ""The code is relevant to the task","optimized and logically correct. Improve by using relative paths for images."""
+Togzhan_8,lab_1,Yes,100,90,0,No improvements needed.
+Ali_9,lab_1,Yes,100,90,0,The code is relevant to the task description and works correctly. Improvement can be made by optimizing the code further.
+Serzhan_Nagi,lab_1,Yes,100,90,0,The code is relevant to the task,but could be optimized further for better performance.
+test_wrong,lab_1,Yes,0,70,20,"""The code does not include the extra tasks specified in the task description."""
+student_name,lab_1,Yes,70,70,20,"""The code covers some of the tasks but lacks the implementation of randomly appearing coins and showing the number of collected coins. Improvement needed."""
+B_Ayaulym_9,lab_1,Yes,100,95,0,The code is relevant to the task and works correctly. It can be improved by adding more comments for better understanding.

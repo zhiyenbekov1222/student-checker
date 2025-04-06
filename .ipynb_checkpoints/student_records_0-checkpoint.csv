@@ -1,0 +1,18 @@
+Student Name,Task Name,Workable,Relevance %,Assessment %,Unnecessary code %,Comments
+K_Aruzhan_9,lab_1,Yes,0,70,0,The code does not implement the extra tasks mentioned in the task description. Improvement needed.
+test_mess_code,lab_1,Yes,70,60,40,"""The code is workable and uses necessary libraries. However","it does not include the extra tasks specified in the task description."""
+Bekzat,lab_1,Yes,100,90,"20 ""The code is relevant to the task","optimized and logically correct. Improvement needed in commenting and unnecessary variables."""
+islam,lab_1,Yes,100,90,"""The code is relevant to the task and works correctly. Needs optimization and better variable naming."""
+Nurali_8,lab_1,Yes,70,60,"""The code works and completes the task partially. Improvements needed for better optimization and logic."""
+Aruzhan_Kopzhanova,lab_1,Yes,70,80,20,"""The code is functional and completes most of the tasks. Improve comments and optimize variable names."""
+Nurtalap_9,lab_1,Yes,70,70,"20 ""The code is workable and relevant to the task. Some optimization and additional features needed."""
+Issakhmet_8,lab_1,Yes,70,60,20,Consider organizing the code into functions for better readability. Add comments for better understanding.
+M_Muratuly_8,lab_1,Yes,0,70,"50 ""The code is workable and uses necessary libraries. However","it does not implement the extra tasks specified in the task description."""
+Bekarys_8,lab_1,Yes,100,90,"""The code is well-written and functional. To improve","consider optimizing and removing unnecessary variables."""
+Nurassyl_8,lab_1,Yes,70,60,20,"""The code works well and completes the task partially. Some improvements needed for optimization and logic."""
+Togzhan_8,lab_1,Yes,100,90,"""The code is workable and relevant to the task. Improvements can be made in code optimization and unnecessary variables."""
+Ali_9,lab_1,Yes,100,90,The code is relevant to the task and works correctly. Improvement can be made with more detailed comments.
+Serzhan_Nagi,lab_1,Yes,70,70,20,The code works well but can be improved by adding more features as mentioned in the task description.
+test_wrong,lab_1,Yes,0,70,0,"""The code does not match the task description","it is for a snake game not for the mentioned tasks."""
+test_weak,lab_1,Yes,70,60,"20 ""The code works and completes the basic functionality. Improvement needed in code optimization and adding extra tasks."""
+B_Ayaulym_9,lab_1,Yes,100,90,20,The code works correctly and is relevant to the task. Some variables can be optimized for better performance.
